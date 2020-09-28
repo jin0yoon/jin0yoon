@@ -6,6 +6,7 @@
 ### Interest
   - Android (Kotlin, Java)
   - iOS (swift)
+  - App UX, UI
   - Flutter
   - nodeJS
   - Machine Learning
