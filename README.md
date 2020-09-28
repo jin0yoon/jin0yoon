@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+## Android Developer
+  - Kotlin, Java
+
+## Interest
+  - Android (Kotlin, Java)
+  - iOS (swift)
+  - Flutter
+  - nodeJS
+  - Machine Learning
+  - Python
+  - javascript
+  
 <!--
 **jin0yoon/jin0yoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
