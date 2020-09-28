@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-## Android Developer
+### Android Developer
   - Kotlin, Java
 
-## Interest
+### Interest
   - Android (Kotlin, Java)
   - iOS (swift)
   - Flutter
