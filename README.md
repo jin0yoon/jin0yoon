@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-### Android Developer
-  - Kotlin, Java
+### App Developer
+  - Android (Kotlin, Java)
+  - iOS (swift)
 
 ### Interest
   - Android (Kotlin, Java)
