@@ -9,10 +9,6 @@
   - iOS (swift)
   - App UX, UI
   - Flutter
-  - nodeJS
-  - Machine Learning
-  - Python
-  - javascript
   
   ![Jinyeong's github stats](https://github-readme-stats.vercel.app/api?username=jin0yoon&show_icons=true&theme=radical)
   
