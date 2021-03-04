@@ -1,12 +1,12 @@
 ### Hi there 👋
 
 ### App Developer
+  - iOS (swift, UIKit, SwiftUI)
   - Android (Kotlin, Java)
-  - iOS (swift)
 
 ### Interest
+  - iOS (swift, UIKit, SwiftUI)
   - Android (Kotlin, Java)
-  - iOS (swift)
   - App UX, UI
   - Flutter
   
