@@ -9,6 +9,8 @@
   - Android (Kotlin, Java)
   - App UX, UI
   - Flutter
+  - Backend (nodejs, mongoDB, Spring)
+  - Web (html, css, javascript, vue)
   
   ![Jinyeong's github stats](https://github-readme-stats.vercel.app/api?username=jin0yoon&show_icons=true&theme=radical)
   
