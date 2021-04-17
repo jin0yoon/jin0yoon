@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I try to grow
+
 ### App Developer
   - iOS (swift, UIKit, SwiftUI)
   - Android (Kotlin, Java)
@@ -9,8 +11,14 @@
   - Android (Kotlin, Java)
   - App UX, UI
   - Flutter
-  - Backend (nodejs, mongoDB, Spring)
+  - Backend (firebase, nodejs, mongoDB, Spring)
   - Web (html, css, javascript, vue)
+
+### 🌱 I’m currently learning
+  - Architecture
+  - Design Pattern
+  - Testing
+  - Clean Code
   
   ![Jinyeong's github stats](https://github-readme-stats.vercel.app/api?username=jin0yoon&show_icons=true&theme=radical)
   
