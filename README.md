@@ -19,6 +19,8 @@ I try to grow
   - Design Pattern
   - Testing
   - Clean Code
+  - Refactoring
+  - Reactive Programming (combine, Rx, Concurrency)
   
   ![Jinyeong's github stats](https://github-readme-stats.vercel.app/api?username=jin0yoon&show_icons=true&theme=radical)
   
